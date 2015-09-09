@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="7" errors="0" failures="0" time="0.007" timestamp="2015-09-09T18:42:07">
+		<testcase classname="Spaceship" name="should know it&amp;apos;s own name" time="0.001">
+		</testcase>
+		<testcase classname="Spaceship" name="should have the correct number of phasers (5)" time="0.001">
+		</testcase>
+		<testcase classname="Spaceship" name="should have the correct layer of shields (4)" time="0">
+		</testcase>
+		<testcase classname="Spaceship" name="should have it&amp;apos;s cloaking set to false by default" time="0">
+		</testcase>
+		<testcase classname="Spaceship" name="should have it&amp;apos;s warp drive set to &amp;quot;disengaged&amp;quot; by default" time="0">
+		</testcase>
+		<testcase classname="Spaceship" name="should be docked if it has no crew" time="0">
+		</testcase>
+		<testcase classname="Spaceship" name="should have it&amp;apos;s `phasers` charge set to &amp;quot;uncharged&amp;quot; by default" time="0.001">
+		</testcase>
+	</testsuite>
+</testsuites>
+
